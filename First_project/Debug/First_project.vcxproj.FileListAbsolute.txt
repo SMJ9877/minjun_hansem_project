@@ -1,2 +1,4 @@
 C:\Users\user1\Documents\C_C++Projects\helloworld\minsem\minjun_hansem_project\First_project\Debug\First_project.exe
 C:\Users\user1\Documents\C_C++Projects\helloworld\minsem\minjun_hansem_project\First_project\Debug\First_project.pdb
+C:\프로젝트용\SMJ9877\minjun_hansem_project\First_project\Debug\First_project.exe
+C:\프로젝트용\SMJ9877\minjun_hansem_project\First_project\Debug\First_project.pdb
