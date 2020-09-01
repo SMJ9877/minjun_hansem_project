@@ -1,5 +1,0 @@
-C:\Users\GT_01\studyC\Ican\Ican\Debug\Ican.vcxprojAssemblyReference.cache
-C:\Users\GT_01\studyC\Ican\Ican\Debug\Ican.MyForm.resources
-C:\Users\GT_01\studyC\Ican\Ican\Debug\Ican.vcxproj.GenerateResource.cache
-C:\Users\GT_01\studyC\Ican\Ican\Debug\Ican.MyForm1.resources
-C:\Users\GT_01\studyC\Ican\Ican\Debug\Ican.MyForm2.resources
