@@ -1,6 +1,0 @@
-C:\Users\user1\Documents\C_C++Projects\ParkingProject\Debug\Parkingproject.vcxprojAssemblyReference.cache
-C:\Users\user1\Documents\C_C++Projects\ParkingProject\Debug\Parkingproject.Seat.resources
-C:\Users\user1\Documents\C_C++Projects\ParkingProject\Debug\Parkingproject.vcxproj.GenerateResource.cache
-C:\Users\user1\Documents\C_C++Projects\ParkingProject\Debug\Parkingproject.exe
-C:\Users\user1\Documents\C_C++Projects\ParkingProject\Debug\Parkingproject.pdb
-C:\Users\user1\Documents\C_C++Projects\ParkingProject\Debug\Parkingproject.OutCalculator.resources
