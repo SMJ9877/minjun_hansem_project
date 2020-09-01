@@ -1,2 +1,6 @@
 PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.26.28801:TargetPlatformVersion=10.0.18362.0:
+<<<<<<< HEAD
+Debug|Win32|C:\프로젝트용\SMJ9877\minjun_hansem_project\First_project\|
+=======
 Debug|Win32|C:\프로젝트용\minjun_hansem_project\minjun_hansem_project\First_project\|
+>>>>>>> 1a332b116e2551806925624c0a528f233de46794

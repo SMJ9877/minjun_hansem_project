@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
+    ""
+  ],
+=======
     "",
     "\\First_project"
   ],
   "SelectedNode": "\\First_project\\Hello_world.cpp",
+>>>>>>> 1a332b116e2551806925624c0a528f233de46794
   "PreviewInSolutionExplorer": false
 }
