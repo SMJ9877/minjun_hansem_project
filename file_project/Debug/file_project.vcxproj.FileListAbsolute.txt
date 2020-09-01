@@ -1,0 +1,2 @@
+C:\Users\user1\Documents\C_C++Projects\helloworld\minsem\minjun_hansem_project\file_project\Debug\file_project.exe
+C:\Users\user1\Documents\C_C++Projects\helloworld\minsem\minjun_hansem_project\file_project\Debug\file_project.pdb
