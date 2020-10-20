@@ -334,6 +334,7 @@ namespace Ican {
 			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
 			this->Name = L"MyForm1";
 			this->Text = L"Space";
+			this->Load += gcnew System::EventHandler(this, &MyForm1::MyForm1_Load);
 			this->ResumeLayout(false);
 			this->PerformLayout();
 
@@ -344,6 +345,8 @@ namespace Ican {
 private: System::Void label2_Click(System::Object^ sender, System::EventArgs^ e) {
 	}
 private: System::Void label13_Click(System::Object^ sender, System::EventArgs^ e) {
+}
+private: System::Void MyForm1_Load(System::Object^ sender, System::EventArgs^ e) {
 }
 };
 }

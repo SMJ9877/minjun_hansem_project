@@ -1,7 +1,6 @@
 #pragma once
-#include "vehicle.cpp"
 
-vehicle v;
+
 namespace Ican {
 
 	using namespace System;
@@ -113,6 +112,7 @@ namespace Ican {
 			this->Controls->Add(this->textBox1);
 			this->Name = L"MyForm2";
 			this->Text = L"MyForm2";
+			this->Load += gcnew System::EventHandler(this, &MyForm2::MyForm2_Load);
 			this->ResumeLayout(false);
 			this->PerformLayout();
 
@@ -123,10 +123,11 @@ namespace Ican {
 
 	
 	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
-		vehicle::vehicleNum == textBox1->Text;
-		std::count << vehicle::vehicleNum;
+	
 	}
 	private: System::Void textBox1_TextChanged(System::Object^ sender, System::EventArgs^ e) {
 	}
-	};
+	private: System::Void MyForm2_Load(System::Object^ sender, System::EventArgs^ e) {
+	}
+};
 }

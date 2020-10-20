@@ -3,3 +3,8 @@ C:\Users\GT_01\studyC\Ican\Ican\Debug\Ican.MyForm.resources
 C:\Users\GT_01\studyC\Ican\Ican\Debug\Ican.vcxproj.GenerateResource.cache
 C:\Users\GT_01\studyC\Ican\Ican\Debug\Ican.MyForm1.resources
 C:\Users\GT_01\studyC\Ican\Ican\Debug\Ican.MyForm2.resources
+C:\프로젝트용\SMJ9877\minjun_hansem_project\Ican\Ican\Debug\Ican.vcxprojAssemblyReference.cache
+C:\프로젝트용\SMJ9877\minjun_hansem_project\Ican\Ican\Debug\Ican.vcxproj.GenerateResource.cache
+C:\프로젝트용\SMJ9877\minjun_hansem_project\Ican\Ican\Debug\Ican.MyForm.resources
+C:\프로젝트용\SMJ9877\minjun_hansem_project\Ican\Ican\Debug\Ican.VehicleNum.resources
+C:\프로젝트용\SMJ9877\minjun_hansem_project\Ican\Ican\Debug\Ican.MyForm1.resources

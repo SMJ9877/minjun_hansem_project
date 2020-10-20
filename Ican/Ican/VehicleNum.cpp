@@ -1,4 +1,4 @@
-#include "MyForm2.h"
+#include "VehicleNum.h"
 
 using namespace System;
 
@@ -8,7 +8,7 @@ using namespace System::Windows::Forms;
 
 [STAThreadAttribute]
 
-void Main(array<String^>^ args) {
+void VehicleNum(array<String^>^ args) {
 
 	Application::EnableVisualStyles();
 

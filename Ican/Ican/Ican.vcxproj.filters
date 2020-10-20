@@ -18,13 +18,10 @@
     <ClCompile Include="MyForm.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="VehicleNum.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="MyForm1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="MyForm2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="vehicle.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -32,10 +29,10 @@
     <ClInclude Include="MyForm.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="MyForm1.h">
+    <ClInclude Include="VehicleNum.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="MyForm2.h">
+    <ClInclude Include="MyForm1.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

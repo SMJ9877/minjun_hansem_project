@@ -37,8 +37,8 @@ namespace Parkingproject {
 	private: System::Windows::Forms::Label^ label1;
 	protected:
 	private: System::Windows::Forms::Label^ label2;
-	private: System::Windows::Forms::TextBox^ textBox1;
-	private: System::Windows::Forms::TextBox^ textBox2;
+
+
 
 	private:
 		/// <summary>
@@ -55,8 +55,6 @@ namespace Parkingproject {
 		{
 			this->label1 = (gcnew System::Windows::Forms::Label());
 			this->label2 = (gcnew System::Windows::Forms::Label());
-			this->textBox1 = (gcnew System::Windows::Forms::TextBox());
-			this->textBox2 = (gcnew System::Windows::Forms::TextBox());
 			this->SuspendLayout();
 			// 
 			// label1
@@ -82,30 +80,11 @@ namespace Parkingproject {
 			this->label2->Text = L"총 요금 : 2200원";
 			this->label2->Click += gcnew System::EventHandler(this, &OutCalculator::label2_Click);
 			// 
-			// textBox1
-			// 
-			this->textBox1->Location = System::Drawing::Point(43, 38);
-			this->textBox1->Name = L"textBox1";
-			this->textBox1->Size = System::Drawing::Size(265, 25);
-			this->textBox1->TabIndex = 2;
-			this->textBox1->Text = L"들어올 때 차량 번호 입력: ";
-			this->textBox1->TextChanged += gcnew System::EventHandler(this, &OutCalculator::textBox1_TextChanged);
-			// 
-			// textBox2
-			// 
-			this->textBox2->Location = System::Drawing::Point(363, 38);
-			this->textBox2->Name = L"textBox2";
-			this->textBox2->Size = System::Drawing::Size(265, 25);
-			this->textBox2->TabIndex = 3;
-			this->textBox2->Text = L"나갈 때 차량 번호 입력: ";
-			// 
 			// OutCalculator
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(8, 15);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			this->ClientSize = System::Drawing::Size(691, 477);
-			this->Controls->Add(this->textBox2);
-			this->Controls->Add(this->textBox1);
 			this->Controls->Add(this->label2);
 			this->Controls->Add(this->label1);
 			this->Name = L"OutCalculator";

@@ -73,7 +73,8 @@ namespace Parkingproject {
 	private: System::Windows::Forms::Button^ button19;
 	private: System::Windows::Forms::Button^ button18;
 	private: System::Windows::Forms::Button^ button17;
-
+	private: System::Windows::Forms::ComboBox^ comboBox1;
+		 
 	private:
 		/// <summary>
 		/// 필수 디자이너 변수입니다.
@@ -125,6 +126,7 @@ namespace Parkingproject {
 			this->button18 = (gcnew System::Windows::Forms::Button());
 			this->button17 = (gcnew System::Windows::Forms::Button());
 			this->label1 = (gcnew System::Windows::Forms::Label());
+			this->comboBox1 = (gcnew System::Windows::Forms::ComboBox());
 			panel1 = (gcnew System::Windows::Forms::Panel());
 			panel1->SuspendLayout();
 			this->tableLayoutPanel4->SuspendLayout();
@@ -609,11 +611,22 @@ namespace Parkingproject {
 			this->label1->TabIndex = 3;
 			this->label1->Text = L"자리 유무";
 			// 
+			// comboBox1
+			// 
+			this->comboBox1->FormattingEnabled = true;
+			this->comboBox1->Items->AddRange(gcnew cli::array< System::Object^  >(4) { L"4층", L"3층", L"2층", L"1층" });
+			this->comboBox1->Location = System::Drawing::Point(906, 24);
+			this->comboBox1->Name = L"comboBox1";
+			this->comboBox1->Size = System::Drawing::Size(141, 23);
+			this->comboBox1->TabIndex = 4;
+			this->comboBox1->SelectedIndexChanged += gcnew System::EventHandler(this, &Seat::comboBox1_SelectedIndexChanged);
+			// 
 			// Seat
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(8, 15);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(1408, 759);
+			this->ClientSize = System::Drawing::Size(1197, 690);
+			this->Controls->Add(this->comboBox1);
 			this->Controls->Add(this->label1);
 			this->Controls->Add(this->tableLayoutPanel2);
 			this->Controls->Add(this->tableLayoutPanel3);
@@ -633,7 +646,7 @@ namespace Parkingproject {
 #pragma endregion
 	private: System::Void Seat_Load(System::Object^ sender, System::EventArgs^ e) {
 	}
-
+	
 	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
 	
 		if (this->button1->Text == L"주차가능") {
@@ -651,5 +664,8 @@ namespace Parkingproject {
 		
 	}
 
-	};
+	private: System::Void comboBox1_SelectedIndexChanged(System::Object^ sender, System::EventArgs^ e) {
+		
+	}
+};
 }

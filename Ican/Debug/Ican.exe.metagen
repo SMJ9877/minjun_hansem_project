@@ -1,6 +1,6 @@
   Ican.MyForm.resources - Embedded, ContainedInManifestFile, 
   Ican.MyForm1.resources - Embedded, ContainedInManifestFile, 
-  Ican.MyForm2.resources - Embedded, ContainedInManifestFile, 
+  Ican.VehicleNum.resources - Embedded, ContainedInManifestFile, 
 ImageRuntimeVersion: v4.0.30319
 Assembly Ican, Version=0.0.*, Culture=고정 언어(고정 국가): 
 	hash=SHA1, flags=PublicKey
