@@ -8,7 +8,7 @@ using namespace System::Windows::Forms;
 
 [STAThreadAttribute]
 
-void Seat(array<String^>^ args) {
+void Main(array<String^>^ args) {
 
 	Application::EnableVisualStyles();
 

@@ -8,7 +8,7 @@ using namespace System::Windows::Forms;
 
 [STAThreadAttribute]
 
-void Main(array<String^>^ args) {
+void OutCalculator(array<String^>^ args) {
 
 	Application::EnableVisualStyles();
 

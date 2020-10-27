@@ -4,3 +4,9 @@ C:\Users\user1\Documents\C_C++Projects\ParkingProject\Debug\Parkingproject.vcxpr
 C:\Users\user1\Documents\C_C++Projects\ParkingProject\Debug\Parkingproject.exe
 C:\Users\user1\Documents\C_C++Projects\ParkingProject\Debug\Parkingproject.pdb
 C:\Users\user1\Documents\C_C++Projects\ParkingProject\Debug\Parkingproject.OutCalculator.resources
+C:\프로젝트용\SMJ9877\minjun_hansem_project\Parkingproject\Debug\Parkingproject.vcxprojAssemblyReference.cache
+C:\프로젝트용\SMJ9877\minjun_hansem_project\Parkingproject\Debug\Parkingproject.OutCalculator.resources
+C:\프로젝트용\SMJ9877\minjun_hansem_project\Parkingproject\Debug\Parkingproject.Seat.resources
+C:\프로젝트용\SMJ9877\minjun_hansem_project\Parkingproject\Debug\Parkingproject.vcxproj.GenerateResource.cache
+C:\프로젝트용\SMJ9877\minjun_hansem_project\Parkingproject\Debug\Parkingproject.exe
+C:\프로젝트용\SMJ9877\minjun_hansem_project\Parkingproject\Debug\Parkingproject.pdb
